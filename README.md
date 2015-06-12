@@ -1,3 +1,6 @@
+Tutorial - Creating a Web App From Scratch Using AngularJS and Firebase
+URL - http://code.tutsplus.com/tutorials/creating-a-web-app-from-scratch-using-angularjs-and-firebase--cms-22391
+
 # angular-seed — the seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
